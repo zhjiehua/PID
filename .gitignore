@@ -45,3 +45,20 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+
+Plot/ipch/
+Plot/Win32/
+Plot/Plot/Debug/
+Plot/Plot/GeneratedFiles/
+
+PID_Test/ipch/
+PID_Test/Win32/
+PID_Test/PID_Test/Debug/
+PID_Test/PID_Test/GeneratedFiles/
+
+Plot/Plot.sdf
+Plot/Plot.suo
+
+PID_Test/PID_Test.sdf
+PID_Test/PID_Test.suo
